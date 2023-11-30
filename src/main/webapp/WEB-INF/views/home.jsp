@@ -10,6 +10,6 @@
 <%--<jsp:forward page="posts.jsp" />--%>
 <h1>Hello world!</h1>
 <p>The time on the server is ${serverTime}.</p>
-<p><a href="board/posts">게시판으로 이동</a></p>
+<p><a href="board/posts">게시판으로 가시려면 눌러주세요</a></p>
 </body>
 </html>

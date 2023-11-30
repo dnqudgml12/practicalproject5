@@ -32,7 +32,7 @@ public class BoardController {
         } else {
             System.out.println("데이터 추가 성공!");
         }
-        return "redirect:list";
+        return "redirect:posts";
     }
 
     @RequestMapping(value = "/editform/{id}", method = RequestMethod.GET)
@@ -50,7 +50,7 @@ public class BoardController {
         else {
             System.out.println("데이터 수정 성공!!!");
         }
-        return "redirect:list";
+        return "redirect:posts";
     }
 
     @RequestMapping(value = "/deleteok/{id}", method = RequestMethod.GET)
@@ -62,6 +62,6 @@ public class BoardController {
         else {
             System.out.println("데이터 삭제 성공!!!");
         }
-        return "redirect:../list";
+        return "redirect:../posts";
     }
 }

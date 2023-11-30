@@ -38,7 +38,7 @@
 <body>
 <div>
 	<h1>자유게시판</h1>
-	<a href="../login/logout">logout</a>
+
 </div>
 <br>
 <table id="list" width="90%">
