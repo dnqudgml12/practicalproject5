@@ -10,14 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d659e7d-43e4-4882-9294-f40913099755" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/crud/example/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/124d3eda-602e-45d0-ac70-d2deec0bd35e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/124d3eda-602e-45d0-ac70-d2deec0bd35e.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/view.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/crud/example/BoardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crud/example/BoardController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/posts.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/posts.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/addpostform.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/addpostform.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +214,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701332016427</updated>
       <workItem from="1701332017329" duration="20152000" />
-      <workItem from="1701355724831" duration="4195000" />
+      <workItem from="1701355724831" duration="6787000" />
     </task>
     <servers />
   </component>
